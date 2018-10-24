@@ -4,7 +4,7 @@ Listing 7.1
 24-10-2018
 WITT
 
-Name of projekt is: Hello world
+Name of projekt is: Analyze numbers
 
 No prerequestes other than an IDE (ie. Intellij)
 
