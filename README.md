@@ -6,7 +6,7 @@ Listing 7.1
 
 24-10-2018
 
-WITT;
+WITT
 
 Name of projekt is: Analyze numbers
 
