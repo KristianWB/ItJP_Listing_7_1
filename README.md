@@ -1,8 +1,8 @@
-Introduction to Java Programming v.11 
-Chapter 7
-Listing 7.1
-24-10-2018
-WITT
+Introduction to Java Programming v.11;
+Chapter 7;
+Listing 7.1;
+24-10-2018;
+WITT;
 
 Name of projekt is: Analyze numbers
 
